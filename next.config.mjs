@@ -7,7 +7,7 @@ const nextConfig = {
   },
   typescript: {
     // !! WARN !!
-    // Dangerously allow production builds to successfully complete even if
+    // Dangerously allow production builds to successfully complete even 
     // your project has type errors.
     // !! WARN !!
     ignoreBuildErrors: true,
